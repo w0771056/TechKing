@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj": {}
+    "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj": {
+    "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
+        "projectUniqueName": "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
         "projectName": "TechnoWizardMovie",
-        "projectPath": "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
+        "projectPath": "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
         "packagesPath": "C:\\Users\\roryr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\obj\\",
+        "outputPath": "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

@@ -12,6 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>TechnoWizardMovie.Data.TechnoWizardMovieContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\roryr\source\repos\TechnoWizardMovie\TechnoWizardMovie\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\Properties\PublishProfiles\FTPProfile2.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

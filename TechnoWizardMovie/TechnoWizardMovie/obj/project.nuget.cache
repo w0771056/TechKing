@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5fBIQv1kNNK6v2LWQaB4GbPt2Rsq7ku7RhHsM9JlQ+dR0e3D1aGpKOD7v4qV0+QUPOgu1POoYANGhd8tQnegw==",
+  "dgSpecHash": "lFfU8u5bjGFAJieIsAEI/RQWHHMKr16FMuqsAQvxS4w95CgxUoIe+55rA6enuA+pE26ra2nhH6kY/z9A2psEGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roryr\\source\\repos\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
+  "projectFilePath": "C:\\Users\\roryr\\Source\\Repos\\TechKing\\TechnoWizardMovie\\TechnoWizardMovie\\TechnoWizardMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roryr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\roryr\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -127,7 +127,8 @@
     "C:\\Users\\roryr\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\roryr\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\roryr\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\roryr\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\roryr\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\roryr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }
