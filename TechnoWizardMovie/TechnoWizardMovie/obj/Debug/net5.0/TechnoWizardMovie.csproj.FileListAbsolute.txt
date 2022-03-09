@@ -294,7 +294,7 @@ C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Deb
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.Views.pdb
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.csproj.CopyComplete
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.dll
-C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\refint\TechnoWizardMovie.dll
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.pdb
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.genruntimeconfig.cache
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\ref\TechnoWizardMovie.dll
+C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\bin\Debug\net5.0\ref\TechnoWizardMovie.dll
