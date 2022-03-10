@@ -46,7 +46,7 @@ namespace TechnoWizardMovie.Controllers
         // GET: Movies/Create
         public IActionResult Create()
         {
-            return View();
+            return View(Index);
         }
 
         // POST: Movies/Create
