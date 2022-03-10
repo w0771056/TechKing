@@ -298,3 +298,10 @@ C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Deb
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.genruntimeconfig.cache
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\ref\TechnoWizardMovie.dll
 C:\Users\roryr\Source\Repos\TechKing\TechnoWizardMovie\TechnoWizardMovie\bin\Debug\net5.0\ref\TechnoWizardMovie.dll
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.AssemblyInfoInputs.cache
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.AssemblyInfo.cs
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.csproj.CoreCompileInputs.cache
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.RazorAssemblyInfo.cache
+C:\Users\roryr\Source\Repos\w0771056\TechKing\TechnoWizardMovie\TechnoWizardMovie\obj\Debug\net5.0\TechnoWizardMovie.RazorAssemblyInfo.cs
